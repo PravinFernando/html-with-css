@@ -1,0 +1,21 @@
+body {
+    background-color:#FDF9EC;
+    font-family: cursive;
+}
+marquee{
+    background-color: #FFCE74;
+    font-style: italic;
+    color: #FDF9EC;
+}
+#title1{
+    color:#4D7591;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2yDb8PyyTsMRsa99p3pyhAnaL5e23WvCJw&s");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-style: solid;
+}
+table,th,td,tr{
+    border: 1px solid black;
+
+}
